@@ -7,4 +7,4 @@ Basics of Markdown
 '-' is used to make unordered lists
 '1.' is used to make ordered lists
 '---' is used to create an horizontal rule
-for links use this format :: [Google](http://google.com) use '"visit google website"' to show a description text on hover
+for links use this format :: [Facebook](http://google.com) use '"visit google website"' to show a description text on hover
