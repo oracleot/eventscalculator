@@ -1,4 +1,4 @@
-# Events Calculator
+#Events Calculator
 
 Basics of Markdown
 '#' is used to declare headings, one hash symbol makes the text h1, two makes the text h2...
